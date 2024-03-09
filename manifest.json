@@ -1,11 +1,11 @@
 {
     "version": "0.0.1",
     "manifest_version":3,
-    "name":"Contador",
-    "description": "Contador de tiempo",
+    "name":"Videotagger_database",
+    "description": "Plugin de videotagger que usa base de datos",
     "action":{
         "default_icon":"Icono.png",
-        "default_title": "Contador"
+        "default_title": "Videotagger_database"
     },
     "permissions":[
         "activeTab",
